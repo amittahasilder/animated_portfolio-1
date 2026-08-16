@@ -70,6 +70,7 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Resume from "./components/Resume";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -105,7 +106,7 @@ function App() {
           className="flex min-h-screen items-center justify-center bg-purple-950/10"
         >
           <h2 className="text-5xl font-bold">
-            Contact
+            <Contact/>
           </h2>
         </section>
       </main>
