@@ -1300,7 +1300,7 @@ const ProfileCard = () => {
           >
 
             <img
-              src="/src/assets/profile.jpg"
+              src="/src/assets/port.png"
               alt="Profile"
               className="
                 h-full

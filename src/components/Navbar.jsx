@@ -80,7 +80,7 @@ const Navbar = () => {
 
           <div className="hidden sm:block">
             <p className="text-sm font-bold tracking-wide text-white">
-              YOUR<span className="text-purple-400">NAME</span>
+              T<span className="text-purple-400">Amit</span>
             </p>
 
             <p className="text-[9px] uppercase tracking-[0.3em] text-white/40">
