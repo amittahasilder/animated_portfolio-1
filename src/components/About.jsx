@@ -1300,7 +1300,7 @@ const ProfileCard = () => {
           >
 
             <img
-              src="/src/assets/port.png"
+              src="/src/assets/ChatGPT Image Jun 24, 2026, 11_07_13 PM.png"
               alt="Profile"
               className="
                 h-full
